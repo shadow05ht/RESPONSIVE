@@ -83,7 +83,7 @@ html {
 h2 {
     margin: auto;
     position: fixed;
-    line-height: 60px;
+    line-height: 80px;
     font-size: 40px;
     text-align: center;
     background-color: orange;
@@ -120,7 +120,7 @@ h2:hover {
 }
 
 p {
-    margin-top: 80px;
+    margin-top: 100px;
     margin-bottom: 10px;
     color: white;
 }
@@ -217,6 +217,7 @@ h3:hover {
     background-position: center;
     border-radius: 30px;
     margin-left: 20px;
+    margin-top: 40px;
     border: 2px solid orange;
     filter: drop-shadow(0px 0px 5px white);
 }
@@ -237,6 +238,7 @@ h3:hover {
     background-repeat: no-repeat;
     background-position: center;
     border-radius: 30px;
+    margin-top: 40px;
     margin-left: 20px;
     border: 2px solid orange;
     filter: drop-shadow(0px 0px 5px white);
@@ -258,6 +260,7 @@ h3:hover {
     background-repeat: no-repeat;
     background-position: center;
     border-radius: 30px;
+    margin-top: 40px;
     margin-left: 20px;
     border: 2px solid orange;
     filter: drop-shadow(0px 0px 5px white);
@@ -279,6 +282,7 @@ h3:hover {
     background-repeat: no-repeat;
     background-position: center;
     border-radius: 30px;
+    margin-top: 40px;
     margin-left: 20px;
     border: 2px solid orange;
     filter: drop-shadow(0px 0px 5px white);
@@ -300,6 +304,7 @@ h3:hover {
     background-repeat: no-repeat;
     background-position: center;
     border-radius: 30px;
+    margin-top: 40px;
     margin: auto;
     margin-bottom: 40px;
     border: 2px solid orange;
@@ -321,6 +326,7 @@ h3:hover {
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
+    margin-top: 40px;
     border-radius: 30px;
     margin-left: 20px;
     border: 2px solid orange;
@@ -344,6 +350,7 @@ h3:hover {
     background-position: center;
     border-radius: 30px;
     margin-left: 20px;
+    margin-top: 40px;
     border: 2px solid orange;
     filter: drop-shadow(0px 0px 5px white);
 }
@@ -362,6 +369,7 @@ h3:hover {
     background-image: url(oceans.jpg);
     background-size: cover;
     background-repeat: no-repeat;
+    margin-top: 40px;
     background-position: center;
     border-radius: 30px;
     margin-left: 20px;
@@ -386,6 +394,7 @@ h3:hover {
     background-position: center;
     border-radius: 30px;
     margin-left: 20px;
+    margin-top: 40px;
     border: 2px solid orange;
     filter: drop-shadow(0px 0px 5px white);
 }
